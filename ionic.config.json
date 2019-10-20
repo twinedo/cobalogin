@@ -1,0 +1,7 @@
+{
+  "name": "cobalogin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
